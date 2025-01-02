@@ -21,6 +21,6 @@
 📱 Phone: ![Static Badge](https://img.shields.io/badge/Apple_iPhone_XR-0?style=for-the-badge&logo=apple&logoColor=white&color=black)
 
 
-## Contact 
+## Social 
 [![Static Badge](https://img.shields.io/badge/Discord-0?style=for-the-badge&logo=discord&logoSize=auto&color=black)](https://discord.com/users/1203798458499207241)
 [![Static Badge](https://img.shields.io/badge/Steam-0?style=for-the-badge&logo=steam&logoColor=white&color=black)](https://steamcommunity.com/id/neeloves/)
