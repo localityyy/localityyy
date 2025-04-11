@@ -17,7 +17,7 @@
 </div>
 
  IDE:
-ㅤ<img src="https://raw.githubusercontent.com/JetBrains/logos/refs/heads/master/web/rider/rider.svg" alt="JetBrains RIder" width="40" height="40"/> ㅤ<img src="https://raw.githubusercontent.com/MicrosoftDocs/visualstudio-docs/refs/heads/main/docs/media/vs-code-logo.svg" alt="JetBrains RIder" width="40" height="40"/>
+ㅤ <img src="https://raw.githubusercontent.com/MicrosoftDocs/visualstudio-docs/refs/heads/main/docs/media/vs-code-logo.svg" alt="JetBrains RIder" width="40" height="40"/>
 
  Currently working on: <a href="https://github.com/localityyy/SuperOutput" target="_self">SuperOutput</a>
 
