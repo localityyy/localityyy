@@ -19,7 +19,7 @@
  IDE:
 ㅤ <img src="https://raw.githubusercontent.com/MicrosoftDocs/visualstudio-docs/refs/heads/main/docs/media/vs-code-logo.svg" alt="JetBrains RIder" width="40" height="40"/>
 
- Currently working on: <a href="https://github.com/localityyy/Orion" target="_self">Orion Rework</a>
+ Currently working on: <a href="https://github.com/localityyy/Orion-Reborn" target="_self">Orion Reborn</a>
 
  Learning Right Now: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="20" height="20"/>
 
